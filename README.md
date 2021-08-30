@@ -1,4 +1,5 @@
 ## Obsidian Sample Plugin
+## test reading
 
 This is a sample plugin for Obsidian (https://obsidian.md).
 
